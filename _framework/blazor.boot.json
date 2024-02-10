@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SfurtConnect",
   "resources": {
-    "hash": "sha256-Gkm4SICX7QLLJM72vtUyWnETIW5PrKlHzEHEoQcsl14=",
+    "hash": "sha256-VAXASN7yQIXlYrpRaECXrcTS/znzBSaF0osKYc8oYTo=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.7egdpr5ifq.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -35,7 +35,7 @@
       "Microsoft.JSInterop.wasm": "sha256-fQzUKiMn301ua8bD8vALVSsfhGn3hOiW5qYwk4tBVrI=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
       "MudBlazor.wasm": "sha256-TbHjzbWRDIWWG6ECAyrLSW02HO51qTgoqfmnee+PrpM=",
-      "SfurtConnect.wasm": "sha256-GqpBPKUR2BtfI5XefcYulz/UlX5bjWl2l9iUX53z0T4=",
+      "SfurtConnect.wasm": "sha256-VR/ONNhOjp1t/2a73lNU8I+8GXdqZhxI9dbeHeacKGk=",
       "System.Collections.Concurrent.wasm": "sha256-cnLqOjfHzv0CI7ldY3Hx2xseuvTxtsejLTVrjk6bq/g=",
       "System.Collections.wasm": "sha256-HGS+r1zwNvDNdp09Y3pYjlb4LJJ3ny6O8sNuEcbk4mE=",
       "System.ComponentModel.Primitives.wasm": "sha256-tSMMW16u13yLz4p/1OVM4q2OicnO5hgZSxm2kOg0dEM=",
