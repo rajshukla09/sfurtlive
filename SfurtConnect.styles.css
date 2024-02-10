@@ -76,3 +76,29 @@ main[b-oa2lh8i6ay] {
         padding-right: 1.5rem !important;
     }
 }
+/* /Components/Pages/Home.razor.rz.scp.css */
+
+.mud-card-header[b-wedaf8preq]{
+    background-color: #2196F3; /* Match the color with the carousel item */
+    color: white; /* Text color */
+    padding: 16px; /* Adjust padding as needed */
+    border-radius: 4px; /* Add some rounded corners for a modern look */
+    margin-bottom: 16px; /* Add some space between the header and the carousel */
+}
+
+.carousel-text[b-wedaf8preq] {
+    font-size: 1.25rem; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center; /* Align text horizontally */
+    align-items: center; /* Align text vertically */
+    height: 100%; /* Ensure text takes full height of the carousel item */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.mud-carousel-item[b-wedaf8preq] {
+    height: 200px; /* Set the height of each carousel item */
+}
+
