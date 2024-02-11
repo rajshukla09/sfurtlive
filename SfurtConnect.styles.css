@@ -78,12 +78,14 @@ main[b-oa2lh8i6ay] {
 }
 /* /Components/Pages/Home.razor.rz.scp.css */
 
-.mud-card-header[b-wedaf8preq]{
-    background-color: #2196F3; /* Match the color with the carousel item */
-    color: white; /* Text color */
+.card-header[b-wedaf8preq] {
+    font-weight: bold; /* Set the font weight to bold */
     padding: 16px; /* Adjust padding as needed */
     border-radius: 4px; /* Add some rounded corners for a modern look */
     margin-bottom: 16px; /* Add some space between the header and the carousel */
+    text-align: center; /* Center-align the text */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow */
+    width: 100%; /* Ensure header spans full width */
 }
 
 .carousel-text[b-wedaf8preq] {
