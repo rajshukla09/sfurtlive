@@ -1,7 +1,7 @@
 {
   "entryAssembly": "SfurtConnect",
   "resources": {
-    "hash": "sha256-Wzswe7RxYA51MqRPli3OmeB2AWq6FkFGYmo0SOut008=",
+    "hash": "sha256-l36Tcl6bHwD+JfpXJ131YqiJk/iMYQ0Xu2qaD9Sol+Q=",
     "runtime": {
       "dotnet.6.0.25.op3sivdcxd.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
@@ -28,8 +28,8 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-QRewYnpJ6vl8gGMXBS2gN++/sQ9hKcuv+rhy586Bbxs=",
       "Microsoft.JSInterop.dll": "sha256-bQCzDLCnCZQCGXaah3uL6AIJxhHlboD+mer3ydw+ABM=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-yMaD2+wIHCRAl94ZoLgMHJBpLypiH47Ux6PoATNdZI8=",
-      "MudBlazor.dll": "sha256-eu2NzXfa+9mtz5uJpE7vviWxoymFyrlXr9KF0c+ozZI=",
-      "SfurtConnect.dll": "sha256-g8cku16zZ4PEXI7JHlqY3cxL0c/0Nas7HFnf+Xu7zdw=",
+      "MudBlazor.dll": "sha256-SBDirzVEyOQ9M0epGU3knSyEuiAg2FOK/Z1w+turkE4=",
+      "SfurtConnect.dll": "sha256-Q+eJ1lj3KZBIDcCvls2Hsb1Yb5FHo6pjrh3S2QfKTzU=",
       "System.Collections.Concurrent.dll": "sha256-iEvRYZAcZ3oR24CthnoLziu3WTqB+Z3ACOmVzAVtoUQ=",
       "System.Collections.dll": "sha256-s4WWPWWKnR2WayykHgIYYIHxiXnCY60AGdkusquqntw=",
       "System.ComponentModel.dll": "sha256-6QTnLm+OI7YW6wzzRDtP7atBiGTgd44/xZlhvVN/7gc=",
