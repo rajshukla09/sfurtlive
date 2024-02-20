@@ -88,14 +88,24 @@ main[b-oa2lh8i6ay] {
     width: 100%; /* Ensure header spans full width */
 }
 
-.carousel-text[b-wedaf8preq] {
-    font-size: 1.25rem; /* Adjust the font size as needed */
-    font-weight: bold;
-    color: white;   
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
-}
+
 
 .mud-carousel-item[b-wedaf8preq] {
     height: 200px; /* Set the height of each carousel item */
 }
 
+.image-grid[b-wedaf8preq] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-box[b-wedaf8preq] {
+    width: 200px; /* Set the width of each image box */
+    margin: 10px; /* Adjust margin as needed */
+}
+
+    .image-box img[b-wedaf8preq] {
+        width: 100%;
+        height: auto;
+    }
